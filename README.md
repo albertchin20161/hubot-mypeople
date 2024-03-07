@@ -1,1 +1,6 @@
-코드를 Hackrslab 팀 계정으로 옮겼습니다. [HackrsLab](https://github.com/hackrslab/hubot-mypeople)
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xc0B65930823F5bF3bf620bbFb6F6268657D131f4'
+quorum: 1
